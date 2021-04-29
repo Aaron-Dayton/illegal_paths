@@ -26,6 +26,8 @@
 
 ![](table.md)
 
+![](cipher.hs)
+
 ## Illegal
 
 ### `../`
@@ -115,7 +117,7 @@
 
 ## These files do not currently work so they cannot be tested
 
-![](cipher.hs)
+![](math.asciimath)
 
 
 ![](doesnotexist)
