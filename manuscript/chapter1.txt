@@ -113,9 +113,7 @@
 
 ## These files do not currently work so they cannot be tested
 
-math.tex
-
-math.asciimath
+![](table.md)
 
 
 ![](doesnotexist)
