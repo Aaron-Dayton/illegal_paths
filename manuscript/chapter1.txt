@@ -24,6 +24,8 @@
 
 ![](video.mov)
 
+![](table.md)
+
 ## Illegal
 
 ### `../`
