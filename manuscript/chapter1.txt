@@ -117,14 +117,14 @@ math.tex
 
 math.asciimath
 
-file.txt
+![](file.txt)
 
-table.md
+![](table.md)
 
-cipher.hs
+![](cipher.hs)
 
-doesnotexist
+![](doesnotexist)
 
-doesnotexist.ajsdfhgj
+![](doesnotexist.ajsdfhgj)
 
-doesnotexist.gif
+![](doesnotexist.gif)
