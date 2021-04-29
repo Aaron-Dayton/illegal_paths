@@ -77,39 +77,3 @@
 ![](/resources/video.mp4)
 
 ![](/resources/video.mov)
-
-## Symbols
-
-![](~apple.png)
-
-![](`bath.jpg)
-
-![](*earth.gif)
-
-![](()frog.svg)
-
-![](frog{.svgz)
-
-![](}audio.mp3)
-
-![](a;udio.aac)
-
-![](''audio.ogg)
-
-![](""audio.wav)
-
-![](<video.mp4)
-
-![](vi>deo.mov)
-
-![](apple?.png)
-
-![](%apple.png)
-
-![](ba+th.jpg)
-
-![]([]earth.gif)
-
-![](frog\\.svg)
-
-![](image space.png)
