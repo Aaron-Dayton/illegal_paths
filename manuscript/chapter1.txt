@@ -28,8 +28,6 @@
 
 ![](cipher.hs)
 
-![](math.tex)
-
 ![](math.asciimath)
 
 ![](file.txt)
