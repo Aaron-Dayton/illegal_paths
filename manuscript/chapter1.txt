@@ -24,8 +24,6 @@
 
 ![](video.mov)
 
-![](math.tex)
-
 ## Illegal
 
 ### `../`
@@ -52,8 +50,6 @@
 
 ![](resources/../resources/video.mov)
 
-![](../math.tex)
-
 ### `Leading /`
 
 ![](/resources/apple.png)
@@ -77,8 +73,6 @@
 ![](/resources/video.mp4)
 
 ![](/resources/video.mov)
-
-![](/resources/math.tex)
 
 ### Symbols
 
@@ -104,7 +98,7 @@
 
 ![](vi>deo.mov)
 
-![](?math.tex)
+![](apple?.png)
 
 ![](%apple.png)
 
@@ -115,12 +109,11 @@
 ![](frog\.svg)
 
 
-
-![](math.tex)
-
 ## These files do not currently work so they cannot be tested
 
 ```
+![](math.tex)
+
 ![](math.asciimath)
 
 ![](file.txt)
