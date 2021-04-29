@@ -4,7 +4,7 @@
 
 ![](bath.jpg)
 
-![](earth.gif)
+
 
 ![](frog.svg)
 
@@ -36,8 +36,6 @@
 
 ![](resources/../resources/bath.jpg)
 
-![](../earth.gif)
-
 ![](../frog.svg)
 
 ![](resources/../resources/frog.svgz)
@@ -60,8 +58,6 @@
 
 ![](/resources/bath.jpg)
 
-![](/resources/earth.gif)
-
 ![](/resources/frog.svg)
 
 ![](/resources/frog.svgz)
@@ -77,3 +73,35 @@
 ![](/resources/video.mp4)
 
 ![](/resources/video.mov)
+
+## Symbols
+
+![](~apple.png)
+
+![](`bath.jpg)
+
+![](()frog.svg)
+
+![](frog{.svgz)
+
+![](}audio.mp3)
+
+![](a;udio.aac)
+
+![](''audio.ogg)
+
+![](""audio.wav)
+
+![](<video.mp4)
+
+![](vi>deo.mov)
+
+![](apple?.png)
+
+![](%apple.png)
+
+![](ba+th.jpg)
+
+![](frog\\.svg)
+
+![](image space.png)
