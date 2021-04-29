@@ -119,8 +119,6 @@ math.asciimath
 
 ![](file.txt)
 
-![](cipher.hs)
-
 ![](doesnotexist)
 
 ![](doesnotexist.ajsdfhgj)
