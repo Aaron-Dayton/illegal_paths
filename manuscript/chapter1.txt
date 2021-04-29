@@ -28,6 +28,8 @@
 
 ![](cipher.hs)
 
+![](math.tex)
+
 ## Illegal
 
 ### `../`
