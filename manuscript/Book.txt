@@ -1,2 +1,1 @@
-illegal_resources.txt
 illegal_attributes.txt
