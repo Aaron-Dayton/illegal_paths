@@ -28,6 +28,8 @@
 
 ### `../`
 
+![](1)
+
 ![](../apple.png)
 
 ![](resources/../resources/bath.jpg)
@@ -37,6 +39,8 @@
 ![](../frog.svg)
 
 ![](resources/../resources/frog.svgz)
+
+![](2)
 
 ![](../audio.mp3)
 
@@ -52,6 +56,8 @@
 
 ### `Leading /`
 
+![](3)
+
 ![](/resources/apple.png)
 
 ![](/resources/bath.jpg)
@@ -63,6 +69,8 @@
 ![](/resources/frog.svgz)
 
 ![](/resources/audio.mp3)
+
+![](4)
 
 ![](/resources/audio.aav)
 
@@ -76,6 +84,8 @@
 
 ### Symbols
 
+![](5)
+
 ![](~apple.png)
 
 ![](`bath.jpg)
@@ -86,6 +96,8 @@
 
 ![](frog{.svgz)
 
+![](6)
+
 ![](}audio.mp3)
 
 ![](a;udio.aac)
@@ -95,6 +107,8 @@
 ![](""audio.wav)
 
 ![](<video.mp4)
+
+![](7)
 
 ![](vi>deo.mov)
 
