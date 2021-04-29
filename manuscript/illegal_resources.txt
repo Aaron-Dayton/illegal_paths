@@ -1,6 +1,4 @@
-# Chapter One
-
-## Legal
+# Legal Resources
 
 ![](apple.png)
 
@@ -26,15 +24,13 @@
 
 ![](cipher.hs)
 
-![](hello.rb)
-
 ![](table.md)
 
 ![](math.asciimath)
 
-## Illegal
+# Resources Illegal
 
-### `../`
+## `../`
 
 ![](../apple.png)
 
@@ -58,7 +54,7 @@
 
 ![](resources/../resources/video.mov)
 
-### `Leading /`
+## `Leading /`
 
 ![](/resources/apple.png)
 
@@ -82,7 +78,7 @@
 
 ![](/resources/video.mov)
 
-### Symbols
+## Symbols
 
 ![](~apple.png)
 

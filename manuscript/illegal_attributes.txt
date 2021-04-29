@@ -1,0 +1,214 @@
+# Legal Attributes
+
+## Transcripts
+
+{transcript: file.txt}
+![](video.mp4)
+
+{transcript: file.txt}
+![](audio.mp3)
+
+## Posters
+
+{poster: apple.png}
+![](video.mp4)
+
+{poster: bath.jpg}
+![](audio.mp3)
+
+
+## Transcripts and Posters
+
+{transcript: file.txt, poster: apple.png}
+![](video.mp4)
+
+{poster: bath.jpg, transcript: file.txt}
+![](audio.mp3)
+
+# Illegal Attributes
+
+## Transcripts
+
+### `../`
+
+{transcript: ../resources/file.txt}
+![](video.mp4)
+
+{transcript: ../resources/file.txt}
+![](audio.mp3)
+
+{transcript: resources/../resources/file.txt}
+![](video.mp4)
+
+{transcript: resources/../resources/file.txt}
+![](audio.mp3)
+
+### Leading /
+
+{transcript: /file.txt}
+![](video.mp4)
+
+{transcript: /file.txt}
+![](audio.mp3)
+
+{transcript: /resources/file.txt}
+![](video.mp4)
+
+{transcript: /resources/file.txt}
+![](audio.mp3)
+
+### Symbols
+
+{transcript: ~file.txt}
+![](video.mp4)
+
+{transcript: `file.txt}
+![](audio.mp3)
+
+{transcript: $file.txt}
+![](video.mp4)
+
+{transcript: &file.txt}
+![](audio.mp3)
+
+{transcript: *file.txt}
+![](video.mp4)
+
+{transcript: ()file.txt}
+![](audio.mp3)
+
+{transcript: {file.txt}
+![](video.mp4)
+
+{transcript: \}file.txt}
+![](audio.mp3)
+
+{transcript: fi;le.txt}
+![](video.mp4)
+
+{transcript: f''ile.txt}
+![](audio.mp3)
+
+{transcript: fil""e.txt}
+![](video.mp4)
+
+{transcript: fi<le.txt}
+![](audio.mp3)
+
+{transcript: fil>e.txt}
+![](video.mp4)
+
+{transcript: fil?e.txt}
+![](audio.mp3)
+
+{transcript: file!.txt}
+![](video.mp4)
+
+{transcript: file%.txt}
+![](audio.mp3)
+
+{transcript: file+.txt}
+![](video.mp4)
+
+{transcript: file[].txt}
+![](audio.mp3)
+
+{transcript: file\\.txt}
+![](audio.mp3)
+
+{transcript: space file.txt}
+![](audio.mp3)
+
+
+
+## Posters
+
+### `../`
+
+{poster: ../resources/image.png}
+![](video.mp4)
+
+{poster: ../resources/image.png}
+![](audio.mp3)
+
+{poster: resources/../resources/image.png}
+![](video.mp4)
+
+{poster: resources/../resources/image.png}
+![](audio.mp3)
+
+### Leading /
+
+{poster: /image.png}
+![](video.mp4)
+
+{poster: /image.png}
+![](audio.mp3)
+
+{poster: /resources/image.png}
+![](video.mp4)
+
+{poster: /resources/image.png}
+![](audio.mp3)
+
+### Symbols
+
+{poster: ~image.png}
+![](video.mp4)
+
+{poster: `image.png}
+![](audio.mp3)
+
+{poster: $image.png}
+![](video.mp4)
+
+{poster: &image.png}
+![](audio.mp3)
+
+{poster: *image.png}
+![](video.mp4)
+
+{poster: ()image.png}
+![](audio.mp3)
+
+{poster: {image.png}
+![](video.mp4)
+
+{poster: \}image.png}
+![](audio.mp3)
+
+{poster: ima;ge.png}
+![](video.mp4)
+
+{poster: i''mage.png}
+![](audio.mp3)
+
+{poster: ima""ge.png}
+![](video.mp4)
+
+{poster: <.png}
+![](audio.mp3)
+
+{poster: >.png}
+![](video.mp4)
+
+{poster: ima?ge.png}
+![](audio.mp3)
+
+{poster: image!.png}
+![](video.mp4)
+
+{poster: image%.png}
+![](audio.mp3)
+
+{poster: image+.png}
+![](video.mp4)
+
+{poster: image[].png}
+![](audio.mp3)
+
+{poster: image\\.png}
+![](audio.mp3)
+
+{poster: image space.png}
+![](audio.mp3)
