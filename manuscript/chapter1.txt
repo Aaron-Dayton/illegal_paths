@@ -30,6 +30,10 @@
 
 ![](math.tex)
 
+![](math.asciimath)
+
+![](file.txt)
+
 ## Illegal
 
 ### `../`
@@ -115,15 +119,3 @@
 ![](frog\\.svg)
 
 ![](image space.png)
-
-
-## These files do not currently work so they cannot be tested
-
-![](math.asciimath)
-
-
-![](doesnotexist)
-
-![](doesnotexist.ajsdfhgj)
-
-![](doesnotexist.gif)
