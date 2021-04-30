@@ -1,2 +1,9 @@
 illegal_resources.txt
 illegal_attributes.txt
+illegal!.txt
+illegal..txt
+illegal~
+legal file
+does not exist
+doesnotexist
+legal
