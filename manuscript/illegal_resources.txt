@@ -1,3 +1,4 @@
+{sample: true}
 # Legal Resources
 
 ![](apple.png)
@@ -28,6 +29,7 @@
 
 ![](math.asciimath)
 
+{sample: true}
 # Resources Illegal
 
 ## `../`
