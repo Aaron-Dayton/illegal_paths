@@ -1,9 +1,12 @@
+frontmatter
 illegal_resources.txt
+mainmatter
 illegal_attributes.txt
 illegal!.txt
 illegal..txt
 illegal~
 legal file
 does not exist
+backmatter
 doesnotexist
 legal
