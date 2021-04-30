@@ -1,1 +1,2 @@
+{sample: true}
 # SHOULD NOT SHOW UP
