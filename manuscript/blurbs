@@ -160,3 +160,33 @@ B> This is a tip with a car icon.
 
 {icon: car}
 T> This is a tip with a car icon.
+
+
+
+{icon: leanpub}
+B> Yes, we're in Font Awesome!
+
+{blurb, class: center, icon: leanpub}
+This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+{/blurb}
+
+{class: center, icon: leanpub}
+B> This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+
+{icon: leanpub}
+C> This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+
+#### GitHub Logo
+
+{icon: github}
+B> So is GitHub, of course. Unicorns.
+
+{blurb, class: warning, icon: github}
+This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+{/blurb}
+
+{class: warning, icon: github}
+B> This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+
+{icon: github}
+W> This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
