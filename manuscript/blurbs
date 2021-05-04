@@ -142,3 +142,21 @@ This is a centered blurb
 B> This is a centered blurb.
 
 C> This is a centered blurb.
+
+
+### Icons for Blurbs
+
+#### Car
+
+{icon: car}
+B> You can't spell carbon without it!
+
+{blurb, class: tip, icon: car}
+This is a tip with a car icon.
+{/blurb}
+
+{class: tip, icon: car}
+B> This is a tip with a car icon.
+
+{icon: car}
+T> This is a tip with a car icon.
