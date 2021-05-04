@@ -1,5 +1,4 @@
 frontmatter
-web_resources
 illegal_resources.txt
 mainmatter
 illegal_attributes.txt
