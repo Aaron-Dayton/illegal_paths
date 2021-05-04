@@ -1,0 +1,214 @@
+# Blurbs
+
+## Using `B>` Syntax
+
+B> This is a short blurb, only one line.
+
+B> # A Longer Blurb
+B>
+B> This is a longer blurb.
+B>
+B> It can have multiple paragraphs.
+
+## Using `{blurb}` Syntax
+
+{blurb}
+# A Longer Blurb
+
+This is a longer blurb.
+
+It can have multiple paragraphs.
+{/blurb}
+
+## Blurbs Containing Lists
+
+{blurb}
+This blurb includes a paragraph and an ordered list
+1. This is the first item of the list
+2. This is the second
+3. And this is the third
+{/blurb}
+
+Below is just a blurb with an ordered list
+
+{blurb}
+1. This is the first item of the list
+2. This is the second
+3. And this is the third
+{/blurb}
+
+{blurb}
+This blurb includes a paragraph and an unordered list
+* This is the first item of the list
+* This is the second
+* And this is the third
+{/blurb}
+
+Below is just a blurb with an unordered list
+
+{blurb}
+* This is the first item of the list
+* This is the second
+* And this is the third
+{/blurb}
+
+## Other Blurb Classes
+
+### Warning
+
+{blurb, class: warning}
+This is a warning!
+{/blurb}
+
+{class: warning}
+B> This is a warning!
+
+W> This is a warning!
+
+### Discussion
+
+{blurb, class: discussion}
+This is a discussion!
+{/blurb}
+
+{class: discussion}
+B> This is a discussion!
+
+D> This is a discussion!
+
+### Error
+
+{blurb, class: error}
+This is an error!
+{/blurb}
+
+{class: error}
+B> This is an error!
+
+E> This is an error!
+
+### Information
+
+{blurb, class: information}
+This is an information!
+{/blurb}
+
+{class: information}
+B> This is an information!
+
+I> This is an information!
+
+### Question
+
+{blurb, class: question}
+This is a question!
+{/blurb}
+
+{class: question}
+B> This is a question!
+
+Q> This is a question!
+
+### Tip
+
+{blurb, class: tip}
+This is a tip!
+{/blurb}
+
+{class: tip}
+B> This is a tip!
+
+T> This is a tip!
+
+### Exercise
+
+{blurb, class: exercise}
+This is a exercise!
+{/blurb}
+
+{class: exercise}
+B> This is a exercise!
+
+X> This is a exercise!
+
+### Centered
+
+{blurb, class: center}
+This is a centered blurb
+{/blurb}
+
+{class: center}
+B> This is a centered blurb.
+
+C> This is a centered blurb.
+
+### Icons for Blurbs
+
+#### Car
+
+{icon: car}
+B> You can't spell carbon without it!
+
+{blurb, class: tip, icon: car}
+This is a tip with a car icon.
+{/blurb}
+
+{class: tip, icon: car}
+B> This is a tip with a car icon.
+
+{icon: car}
+T> This is a tip with a car icon.
+
+#### Leanpub Logo
+
+{icon: leanpub}
+B> Yes, we're in Font Awesome!
+
+{blurb, class: center, icon: leanpub}
+This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+{/blurb}
+
+{class: center, icon: leanpub}
+B> This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+
+{icon: leanpub}
+C> This is a centered blurb specified to have a leanpub icon, but centered overwrides it.
+
+#### GitHub Logo
+
+{icon: github}
+B> So is GitHub, of course. Unicorns.
+
+{blurb, class: warning, icon: github}
+This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+{/blurb}
+
+{class: warning, icon: github}
+B> This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+
+{icon: github}
+W> This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+
+### Nonexistent Classes/Logos
+
+{icon: iconthatdoesnotexistatall}
+B> My icon is not here so should fall back to the warning
+
+{class: classthatdoesnotexistatall}
+B> my class does not exist so should fall back to the warning
+
+
+# Bad Blurbs
+
+{icon: car~}
+B> You can't spell carbon without it!
+
+{blurb, class: tip, icon: car!}
+This is a tip with a car icon.
+{/blurb}
+
+{class: tip, icon: car?}
+B> This is a tip with a car icon.
+
+{icon: "car wow"}
+T> This is a tip with a car icon.
