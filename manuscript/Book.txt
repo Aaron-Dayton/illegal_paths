@@ -1,14 +1,14 @@
 frontmatter
 blurbs
-web_resources
-illegal_resources.txt
-mainmatter
-illegal_attributes.txt
-illegal!.txt
-illegal..txt
-illegal~
-legal file
-does not exist
-backmatter
-doesnotexist
-legal
+web_resources1
+illegal_resources.txt1
+mainmatter1
+illegal_attributes.txt1
+illegal!.txt1
+illegal..txt1
+illegal~1
+legal file1
+does not exist1
+backmatter1
+doesnotexist1
+legal1
