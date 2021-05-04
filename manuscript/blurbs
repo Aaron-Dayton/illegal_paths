@@ -200,15 +200,4 @@ B> my class does not exist so should fall back to the warning
 
 # Bad Blurbs
 
-{icon: car~}
-B> You can't spell carbon without it!
 
-{blurb, class: tip, icon: car!}
-This is a tip with a car icon.
-{/blurb}
-
-{class: tip, icon: car?}
-B> This is a tip with a car icon.
-
-{icon: "car wow"}
-T> This is a tip with a car icon.
