@@ -86,3 +86,59 @@ This is an error!
 B> This is an error!
 
 E> This is an error!
+
+
+### Information
+
+{blurb, class: information}
+This is an information!
+{/blurb}
+
+{class: information}
+B> This is an information!
+
+I> This is an information!
+
+### Question
+
+{blurb, class: question}
+This is a question!
+{/blurb}
+
+{class: question}
+B> This is a question!
+
+Q> This is a question!
+
+### Tip
+
+{blurb, class: tip}
+This is a tip!
+{/blurb}
+
+{class: tip}
+B> This is a tip!
+
+T> This is a tip!
+
+### Exercise
+
+{blurb, class: exercise}
+This is a exercise!
+{/blurb}
+
+{class: exercise}
+B> This is a exercise!
+
+X> This is a exercise!
+
+### Centered
+
+{blurb, class: center}
+This is a centered blurb
+{/blurb}
+
+{class: center}
+B> This is a centered blurb.
+
+C> This is a centered blurb.
