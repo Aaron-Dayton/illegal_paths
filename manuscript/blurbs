@@ -190,3 +190,11 @@ B> This is a warning blurb with either a warning icon or a github icon (not sure
 
 {icon: github}
 W> This is a warning blurb with either a warning icon or a github icon (not sure which is more proper).
+
+### Nonexistent Classes/Logos
+
+{icon: iconthatdoesnotexistatall}
+B> My icon is not here so should fall back to the warning
+
+{class: classthatdoesnotexistatall}
+B> my class does not exist so should fall back to the warning
