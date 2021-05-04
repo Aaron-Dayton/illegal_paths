@@ -1,5 +1,4 @@
 frontmatter
-blurbs
 web_resources
 illegal_resources.txt
 mainmatter
